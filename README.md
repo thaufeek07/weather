@@ -17,5 +17,5 @@ service-0.0.1-SNAPSHOT.jar
 Navigate to
 weather\service\src\main\java\app\weather\
 ## Run this commands
-npm install 
-npm start
+### npm install 
+### npm start
