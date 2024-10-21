@@ -1,6 +1,6 @@
-## Real-Time Data Processing System for Weather Monitoring 
-# Tech Stack
-# Pre Request 
+# Real-Time Data Processing System for Weather Monitoring 
+## Tech Stack
+## Pre Request 
 Java 17, Maven, MongoDB, NodeJs
 Checkout the repository 
 To start the server side application
@@ -13,9 +13,9 @@ service\weather\service\target\
 run the command "Java -jar service-0.0.1-SNAPSHOT.jar "
 service-0.0.1-SNAPSHOT.jar
 
-# To Start the UI Code
+## To Start the UI Code
 Navigate to
 weather\service\src\main\java\app\weather\
-# Run this commands
+## Run this commands
 npm install 
 npm start
