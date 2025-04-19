@@ -2,7 +2,6 @@
 ## Tech Stack
 Java, HTML, CSS, JavaScript, Maven, MongoDB, NodeJs
 ## Pre Request 
-Java 17, Maven, MongoDB, NodeJs
 Checkout the repository 
 To start the server side application
 
