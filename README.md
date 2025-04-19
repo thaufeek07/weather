@@ -1,5 +1,6 @@
 # Real-Time Data Processing System for Weather Monitoring 
 ## Tech Stack
+Java, HTML, CSS, JavaScript, Maven, MongoDB, NodeJs
 ## Pre Request 
 Java 17, Maven, MongoDB, NodeJs
 Checkout the repository 
